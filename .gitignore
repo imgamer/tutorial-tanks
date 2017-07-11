@@ -44,3 +44,7 @@ Temporary Items
 
 Library/
 Temp/
+
+*.sln
+
+*.csproj
